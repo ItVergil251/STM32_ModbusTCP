@@ -1,0 +1,31 @@
+{
+    "name": "ModbusTCP",
+    "version": "0.0.1",
+    "description": "Library for ModbusTCP works on STM32_HAL + W5500 Module",
+    "keywords": "ModbusTCP, W5500",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ItVergil251/STM32_ModbusTCP.git"
+    },
+    "authors":
+    [
+    //   {
+    //     "name": "Sam4uk",
+    //     "email": "sam4uk.site@gmail.com",
+    //     "url": "https://sam4uk.github.io"
+    //   },
+      {
+        "name": "Vergil Mercer",
+        "email": "ItVergil251",
+        "url": "https://github.com/ItVergil251",
+        "maintainer": true
+      }
+    ],
+    "license": "",
+    "homepage": "https://github.com/ItVergil251/STM32_ModbusTCP",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
